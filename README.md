@@ -1,6 +1,6 @@
-# MyFitApp (Kişisel Bütçe Takip Uygulaması)
+# BudgetTracker - Kişisel Bütçe Yönetimi
 
-React Native + Expo Router ile geliştirilmiş basit ve şık bir gelir/gider takip uygulaması. Veriler cihaz içinde SQLite ile saklanır; giriş/kayıt (local), işlem ekleme, haftalık bütçe limiti ve raporlama grafiklerini içerir.
+React Native + Expo Router ile geliştirilmiş modern ve şık bir gelir/gider takip uygulaması. Veriler cihaz içinde SQLite ile güvenle saklanır; kullanıcı girişi, işlem yönetimi, haftalık bütçe limiti ve detaylı raporlama grafiklerini içerir.
 
 ## İçerik
 - Özellikler
